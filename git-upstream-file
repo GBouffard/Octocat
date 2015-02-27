@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+An "upstream" remote creates a link between 2 repositories, very often one local and one on a server or hub (such as Github); it is usually used to push and pull information between the 2 repos. It's extremely useful for collaborating with other developers.
