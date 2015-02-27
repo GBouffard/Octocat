@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a separate path that allows to create new changes and test new things as a developer. It presents the advantages of not being directly on the master and can be merged and rebased at will once we are happy with what has been developed in them. It also presents the advantage of being able to create different codes to see which one would be the best fit, still without disturbing the master, whicg is great for collaboration with other developers.
